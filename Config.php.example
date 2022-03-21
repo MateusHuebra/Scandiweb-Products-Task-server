@@ -1,0 +1,10 @@
+<?php
+
+class Config {
+	
+    const HOST = 'localhost';
+    const DATABASE = 'products_scandiweb';
+    const USERNAME = '';
+    const PASSWORD = '';
+
+}
